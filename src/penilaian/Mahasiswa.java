@@ -1,12 +1,7 @@
 package penilaian;
 
 public class Mahasiswa {
-private String nama;
-private String npm;
-private int uas,uts,tugas;
-    public static void main(String[] args) {
-        
-    }
+    String nama,npm;
 
 public String getNama() {
         return nama;
