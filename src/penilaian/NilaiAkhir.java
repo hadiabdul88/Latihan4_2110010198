@@ -13,7 +13,7 @@ public class NilaiAkhir extends Mahasiswa {
         
 }
     public int hitungNilaiAkhir(){
-       return (int)(0.3 * uas + 0.4 * tugas);
+       return (int)(0.3 * uts + 0.3 * uas + 0.4 * tugas);
        
     
     }
